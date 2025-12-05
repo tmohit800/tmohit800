@@ -6,7 +6,7 @@
 
 ## 🔥 Currently Active
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-light&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+(https://github-readme-activity-graph.vercel.app/graph?username=tmohit800&theme=github-light&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## 🛠️ Tech Stack
 
