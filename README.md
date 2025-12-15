@@ -18,9 +18,6 @@
 
 ## 🛠️ Tech Stack
 
-
-## 🚀 Currently @ GigHealth
-
 - 🔧 UAT/Production deployments & monitoring
 - 🛡️ AWS WAF + ELB optimizations  
 - 💻 Sequelize + PostgreSQL tuning
@@ -29,7 +26,7 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tmohit800)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tiwari-mohit)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmohit800@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=gitbook&logoColor=white)](https://tmohit800.github.io)
 
